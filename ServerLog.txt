@@ -1,0 +1,26 @@
+SERVER: Server Started at ('127.0.0.1', 60000) at 20-08-2023 20:29:42
+SERVER: Client connection at ('127.0.0.1', 59649)
+CLIENT: Akshaj is live
+SERVER: User connected - Akshaj
+SERVER: Client connection at ('127.0.0.1', 59650)
+CLIENT: Ani is live
+SERVER: User connected - Ani
+CLIENT: Akshaj: Hi
+CLIENT: Ani: ok
+CLIENT: Ani went offline
+CLIENT: Akshaj went offline
+SERVER: Server Started at ('127.0.0.1', 60000) at 20-08-2023 20:33:14
+SERVER: Server Started at ('127.0.0.1', 60000) at 20-08-2023 20:34:40
+SERVER: Client connection at ('127.0.0.1', 59686)
+CLIENT: Aksha is live
+SERVER: User connected - Aksha
+SERVER: Client connection at ('127.0.0.1', 59687)
+CLIENT: ANI is live
+SERVER: User connected - ANI
+CLIENT: ANI: HI AK
+CLIENT: Aksha: HI AN
+CLIENT: Aksha: HII
+CLIENT: ANI: 
+CLIENT: ANI: quit
+CLIENT: ANI went offline
+CLIENT: Aksha went offline
